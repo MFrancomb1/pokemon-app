@@ -59,8 +59,4 @@ const Pokedex = () => {
     );
 }
 
-PokemonData.propTypes = {
-    pokemon: PropTypes.object,
-}
-
 export default Pokedex
